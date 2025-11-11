@@ -43,7 +43,7 @@ ICU_Sepsis_EarlyPred/
 
 ---
 
-# 전처리 파이프라인(요지)
+# 전처리 파이프라인
 
 결측/이상치 처리: 임상적 비현실 구간 제거, Null 대체 전략 적용
 변수 엔지니어링: BMI, 소변량(uo), AF 과거력 등 파생·변환
@@ -71,7 +71,7 @@ McNemar / Q-statistics: 모델 간 오분류 상관 및 상보성 검토
 
 ---
 
-# 주요 결과(핵심 포인트)
+# 주요 결과
 
 DeLong 기준 SVM vs TabPFN 유사 성능 구간 존재
 Q-statistics·McNemar 결과, 모델 간 상보성은 제한적
