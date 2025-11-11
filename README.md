@@ -9,6 +9,8 @@
 ---
 
 # 폴더 구조
+
+```
 ICU_Sepsis_EarlyPred/
 ├─ data/
 │  └─ ICU_Clinical_split_data.zip         # 분할된 입력 데이터(학습/검증/시험)
@@ -30,6 +32,7 @@ ICU_Sepsis_EarlyPred/
 │  ├─ TabPFN_tuning.py
 │  └─ XGBoost_tuning.py
 └─ README.md
+```
 
 ---
 
