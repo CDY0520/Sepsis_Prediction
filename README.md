@@ -45,7 +45,7 @@ AI 예측 접근의 한계:
 ```
 ICU_Sepsis_EarlyPred/
 ├─ data/
-│  └─ ICU_Clinical_split_data.zip         # 분할된 입력 데이터(학습/검증/시험)
+│  └─ ICU_Clinical_split_data.zip          # 분할된 입력 데이터(학습/검증/시험)
 ├─ model-optuna/                           # 모델별 Optuna 탐색 스크립트
 │  ├─ FTT_optuna.py                        # FT-Transformer
 │  ├─ LGBM_optuna.py                       # LightGBM
